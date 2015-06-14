@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MathurinClassTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="thing_to_look_string">What are you looking for</string>
+    <string name="place_to_look_string">Where are you looking</string>
+
+</resources>
